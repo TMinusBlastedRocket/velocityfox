@@ -38,4 +38,4 @@ pref("devtools.selfxss.count", 0);
 
 // After bug 876037
 pref("app.releaseNotesURL", "about:support");
-pref("app.vendorURL", "https:/github.com/wicknix/");
+pref("app.vendorURL", "https://github.com/TMinusBlastedRocket/");

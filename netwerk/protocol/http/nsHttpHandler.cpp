@@ -735,7 +735,7 @@ nsHttpHandler::BuildUserAgent()
     }
 
 #ifdef FX104_OPTIMIZED_FOR
-    mUserAgent.AppendLiteral(" InterWebPPC/" FX104_OPTIMIZED_FOR );
+    mUserAgent.AppendLiteral(" VelocityFox/" FX104_OPTIMIZED_FOR );
 #endif
 }
 

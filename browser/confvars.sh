@@ -3,8 +3,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-MOZ_APP_BASENAME=InterWebPPC
-MOZ_APP_VENDOR=wicknix
+MOZ_APP_BASENAME=VelocityFox
+MOZ_APP_VENDOR=VelocityFox-team
 MOZ_UPDATER=
 MOZ_PHOENIX=1
 
